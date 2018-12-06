@@ -1,0 +1,32 @@
+Source Keithley Address,24
+Detector Keithley Address,26
+Number of Motors,2
+Integration Time (ms),700
+Max LED Current (A),0.1
+Max Photodetector Current (A),0.005
+Max cone distance,50
+Cone distance step size,2
+Photodetector Area (m^2),0.0001
+PD lateral distance,-36
+Fibre lateral distance,-36
+PD A (hor),30.2
+PD B (hor),26.6
+Fibre A (hor),8.9
+Fibre B (hor),5.6
+Pin 1 (hor),6.98
+Pin 2 (hor),11.12
+Pin 3 (hor),15.12
+Pin 4 (hor),19.26
+PD pin 1 (ver),34.6
+PD pin 2 (ver),30.3
+PD pin 3 (ver),26.2
+PD pin 4 (ver),22.3
+Fibre pin 1 (ver),13.3
+Fibre pin 2 (ver),9
+Fibre pin 3 (ver),4.9
+Fibre pin 4 (ver),1
+Pins A (ver),11.32
+Pins B (ver),15.52
+Point source offset,1
+Device polarity,-1
+Photodetector Polarity,-1
